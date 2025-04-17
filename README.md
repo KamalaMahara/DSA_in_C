@@ -1,5 +1,5 @@
 ## Hi, Im Kamala Mahara ✨
-BCA student at JMC
+BCA student at JMC <br><br>
 Currently learning and Building FrontEnd projects
 
 💡 Skills
